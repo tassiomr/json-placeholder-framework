@@ -3,7 +3,7 @@
 ## Features
 
 - Offline first
-- Pull to request to get network data
+- Pull to refresh to get network data
 - Used bloc pattern to build app
 
 ### Screenshots
